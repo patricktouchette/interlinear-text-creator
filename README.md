@@ -3,8 +3,8 @@ Creates an interlinear book from a Russian text, as shown in the image below. Th
 Uses python 3.6
 
 # To DO
--Clean up code, this is old stuff
--Create a GUI interface in tkinter
+1. Clean up code, this is old stuff
+2. Create a GUI interface in tkinter
 
 ![alt text](https://github.com/patricktouchette/interlinear-text-creator/blob/master/screenshot.png?raw=true)
 
@@ -19,4 +19,5 @@ Uses python 3.6
 7. Run the script
 8. The file output.html will be created
 9. You have successfully created an interlinear text
+10. (optional) Use free software calibre to create an .epub or pdf file
 
