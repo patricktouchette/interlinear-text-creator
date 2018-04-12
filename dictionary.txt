@@ -1,0 +1,1795 @@
+﻿13	13	
+а	a	
+алексей	Alexey	
+алёшка	Alyosha	
+алёшкино	Aleshkin	
+алёшкой	Alyoshko	
+алёшку	Alyoshko	
+ангела	angel	
+арендует	leases	
+арестантское	prisoner's	
+афанасьевна	Afanasyevna	
+б	b	
+баба	woman	
+бабы	women	
+бабьего	Indian	
+бабьи	like a woman	
+базар	market	
+банке	bank	
+баранки	donut	
+барыня	lady	
+барышня	young lady	
+бас	bass	
+басом	bass	
+бегали	ran	
+бегу	run	
+бегущими	fleeing	
+беда	trouble	
+бедная	the poor	
+бедной	poor	
+бежала	ran	
+бежит	runs	
+без	without	
+бездонное	bottomless	
+беззубое	toothless	
+безлюдно	deserted	
+бей	bey	
+белая	white	
+белое	white	
+белом	white	
+бери	take	
+беру	take	
+беспокойство	anxiety	
+бесстыжее	shameless	
+бить	beat	
+бичом	scourge	
+благополучно	safely	
+благословили	blessed	
+бледная	pale	
+бледные	pale	
+блеяли	bleated	
+блудницами.	harlots.	
+бог	God	
+бог.	God.	
+бога	god	
+богатство	wealth	
+богомольная	pious	
+богу	God	
+божественное	the divine	
+божья	God's	
+боится	fears	
+бок	side	
+болезней	diseases	
+болезненная	painful	
+болтаешь	You talk	
+больницу	hospital	
+большая	greater	
+больше	more	
+большими	high	
+большой	big	
+бормочет	mutters	
+босая	barefooted	
+боясь	fearing	
+бояться	fear	
+брать	take	
+бросай	throw	
+бросала	He threw	
+бросать	throw	
+будет	will be	
+будешь	will	
+будто	allegedly	
+буду	I will	
+будьте	be	
+бы	would	
+бывает	it happens	
+бывало	happened	
+был	It was	
+была	It was	
+была.	It was.	
+были	It was	
+было	It was	
+быстро	fast	
+быть	be	
+бьет	beats	
+в	at	
+вам	you	
+вами	you	
+варвара	barbarian	
+варваре	barbarian	
+вареньем.	jam.	
+варшавы	Warsaw	
+вас	you	
+васе	Vase	
+васей	Vasya	
+васи	washi	
+василий	Basil	
+василию	Vasily	
+васиных	Vasin	
+васю	Vasya	
+вася	Vasya	
+вбегает	runs	
+вбежал	rushed	
+вверх	up	
+вдова	widow	
+вдова-старушка	old widow	
+вдовы	widow	
+вдруг	all of a sudden	
+ведра	buckets	
+ведро.	bucket.	
+ведь	after all	
+вежливая	polite	
+век	century	
+веку	century	
+велела	told	
+великолепную	excellent	
+великолепным	magnificent	
+веник	broom	
+венчалась	I got married	
+вернули	returned	
+версты	mile	
+верхнем	the top	
+вершу	manage	
+весело	fun	
+веселый	cheerful	
+весь	all	
+вечер	evening	
+вечерам	evenings	
+вечером	in the evening	
+вечеру	evening	
+вешается	hung	
+взад	back	
+взглянул	I looked	
+вздохнул	sigh	
+вздохнула	breath	
+вздрогнул	I shuddered	
+вздрогнула	He started	
+взыскиваем	We charge a	
+взял	I took	
+взяла	took	
+взяли	have taken	
+взялся	I took	
+взять	take	
+видавший	well-worn	
+видать	see	
+видна	visible	
+видно	it is seen	
+виду	mind	
+визгу	screeching	
+вини	blame	
+виновата	to blame	
+виноваты	to blame	
+вместе	together	
+вместо	instead	
+внизу	at the bottom	
+внимания..	attention ..	
+внушение	suggestion	
+во	in	
+вода	water	
+водопой	watering place	
+вожжами	the reins	
+вожжи	rein	
+воздухе	the air	
+воздыханий	lamentations	
+возьми	take	
+вокзала	station	
+воля	will	
+ворот	the gate	
+ворота	goal	
+воротам	the gate	
+воротами	gates	
+восемь	eight 	
+воскресенье	Sunday	
+восходившего	rise	
+вот	here	
+вошел	has entered	
+вперед	forward	
+впустила	admitted	
+враг	enemy	
+времени	time	
+время	time	
+вроде	like	
+все	all	
+все-таки	nevertheless	
+всегда	always	
+всей	all	
+всем	all	
+всеми	all	
+всенощной	Vigil	
+всех	all	
+вскорости	soon	
+вскочил	I jumped up	
+вскрикнул	I cried	
+вскрикнула	cried	
+вспомнила	He recalled	
+вставай	wakey	
+вставая	getting up	
+вставлять	insert	
+вставляю	insert	
+встал	got up	
+всхлипывая	sobbing	
+всю	all	
+вся	all	
+всякие	any	
+всяких	any	
+всякой	all	
+всё	all	
+второй	second	
+втроем	all three	
+въехала	I drove	
+вы	you	
+выбежал	ran out	
+выбросил	threw	
+выведу	I will bring	
+выволок	dragged	
+выгнала	expelled	
+выдана	granted	
+выезжали	traveled	
+вынесли	carried	
+вынимает	takes	
+вынимать	take out	
+выпьешь	drink	
+выражением	expression	
+вырыли	dug	
+высокую	high	
+высоте	height	
+выходит	comes	
+выше	higher	
+вышел	came out	
+вышла	out	
+вышло	came out	
+вялый	sluggish	
+гадюкой	viper	
+гармонике	harmonica	
+гармоники	harmonics	
+гармоникой	harmonica	
+где	Where	
+где-то	somewhere	
+геенну	hell	
+ги-ги-ги	gi-gi-gi	
+глаз	eye	
+глаза	eyes	
+глазами	eyes	
+глазки	eyes	
+глазом	eye	
+глупости	nonsense	
+глядела	looked	
+глядели	looked	
+глядеть	look	
+гляди	look	
+глядит	looks	
+глядя	looking	
+гляжу	I look	
+говорил	said	
+говорили	said	
+говорит	He speaks	
+говорить	speak	
+говорю	I say	
+говорят	they say	
+года	of the year	
+годочка	godochkov	
+голова	head	
+голове	head	
+головой.	head.	
+голову	head	
+головы	head	
+голос	vote	
+голоса	vote	
+голосом	voice	
+голубей	pigeons	
+голубка	dove	
+голубям	pigeons	
+голубями	pigeons	
+горбатенький	hunchback	
+горбатый	bunchy	
+горбатым	hooked	
+горбом	hump	
+горе	sorrow	
+горний	heavenly	
+города	cities	
+городе	town	
+городу	city	
+гору	mountain	
+горя	sorrow	
+горячкой	fever	
+господи	Jesus	
+гостинцы	goodies	
+грех	sin	
+грешила	sinned	
+грешно	sin	
+грешные	sinful	
+гришутка	grishutka	
+гришутку	grishutku	
+гром	thunder	
+громко	loud	
+грудь	chest	
+грядущий	coming	
+губернии	province	
+губернию	province	
+гуляет	walking	
+гуляла	walking	
+гулять	walk	
+да	Yes	
+давай	let's	
+давеча	just now	
+даже	even	
+далеко	long away	
+дали	gave	
+дальше	farther	
+дать	give	
+два	two	
+две	two	
+дверь	Door	
+двор	court	
+двора	court	
+дворе	yard	
+двором	court	
+двух	two	
+двухэтажный	double decker	
+девал	Deval	
+девках	the shelf	
+девку	girl	
+девочка	girl	
+дегтем	tar	
+дедушка	granddad	
+дела	affairs	
+дело	a business	
+делового	business	
+день	day	
+деньгами	money	
+деревьев	trees	
+деревьях	trees	
+держал	held	
+держит	keeps	
+держится	keeps	
+дернул	I pulled	
+десять	ten	
+детей	children	
+длинная	long	
+длинном	long	
+длинные	long	
+дне	day	
+дни	days	
+дня	day	
+до	before	
+добавил	He added	
+доброго	good	
+доброй	good	
+доедала	I eat up	
+дожила	lived	
+доили	milked	
+доить	milk	
+доказывали	argued	
+долго	long	
+должна	must	
+должно	must	
+должны	must	
+дом	house	
+дома	at home	
+домике	house	
+домовладелец	homeowner	
+домой	home	
+домой.	home.	
+дому	home	
+доносилась	could be heard	
+допрыгалась	doprygat	
+дороге	the road	
+дорого	expensive	
+дорогой	expensive	
+достанешь	get one	
+достигал	reached	
+доходишки	dohodishki	
+дочке	daughter	
+дошла	reached	
+дошло	reached	
+дроги	hearse	
+дрожать	shake	
+дрожит	trembles	
+другая	other	
+другие	other	
+другое	other	
+другой	other	
+другую	another	
+думали	thought	
+думаю	I think	
+думаючи	dumayuchi	
+дура	fool	
+дурь	folly	
+дух	spirit	
+душа	soul	
+души	the soul	
+душно	stifling	
+душном	stuffy	
+душный	stuffy	
+дюде	dyude	
+дюди	dyudi	
+дюдю	Dyudyu	
+дюдя	Dyudya	
+его	him	
+едва	barely	
+едет	rides	
+едина	united	
+еду	food	
+ее	her	
+ежели	if	
+ездит	rides	
+ей	her	
+ей-богу	by golly	
+ел	eating	
+ела	eating	
+ему	him	
+если	if	
+ехать	go	
+еще	yet	
+ж	Well	
+жалеть	pity	
+жалко	miserably	
+жалобно	lamentably	
+жалости	pity	
+жаркий	hot	
+жарко	hot	
+ждал	I waited	
+же	the same	
+железной	of iron	
+жена	wife	
+женили	married	
+женой	wife	
+женского	female	
+женское	women's	
+жену	wife	
+жеребенок	foal	
+живая	live	
+живет	lives	
+живо	vividly	
+животе	stomach	
+жидовка	Jewess	
+жидовки	Jewess	
+жизнь	a life	
+жизнью	life	
+жил	I lived	
+жила	lived	
+жилетке	vest	
+жить	live	
+жмется	clinging	
+жребий	lot	
+жует	chews	
+журавль	crane	
+журавля	crane	
+за	behind	
+забежали	ran	
+заболел	ill	
+заболела	ill	
+забор	fence	
+забора	fence	
+заборе	fence	
+забрала	took	
+забрили	BOAD	
+завел	started	
+завертелись	whirled	
+завидовала	jealous	
+завод	factory	
+завода	factory	
+заводе	factory	
+завтра	tomorrow	
+заговорит	speak	
+загорелась	lit.	
+загорелись	lit	
+задаром	for a song	
+задержало	delayed	
+зажег	lit	
+зажили	healed	
+зазвонили	rang	
+зайдешь	you come	
+законного	lawful	
+закричал	cried	
+закутанная	wrapped	
+залаяла	barked	
+залился	burst into	
+залита	flooded	
+заметался	darted	
+замечать	notice	
+замигали	flashed	
+замолчали	silent	
+замолчи	shut up	
+замужней	married	
+занимается.	He engaged.	
+заодно	at the same time	
+запеклось	baked	
+запели	sang	
+запер	locked	
+заплаканное	tear-stained	
+запрягать	harness	
+запрягли	hitched	
+запыхавшись	breath	
+заря	dawn	
+засватал	zasvatal	
+заскрипел	creaked	
+заслонив	overshadowing	
+засмеялась	laughing	
+заспанные.	sleepy.	
+застучал	I pounded	
+застучало	pounded	
+засуетился	fussing	
+засыпала	I fell asleep	
+затопал	stamped	
+захватила	captured	
+захлопотала	bustled	
+заходило	Visits	
+захрапел	snore	
+зашептала	whispered	
+звезды	stars	
+звеня	ringing	
+здоровая	healthy	
+здравствуйте	Hello	
+зевнул	yawn	
+зеленями	green	
+земле	land	
+землю	ground	
+зимние	winter	
+зимою	winter	
+зла	evil	
+злоблюсь	zloblyus	
+злодей	the villain	
+злыдней	Sinister	
+знал	I knew	
+значит	so	
+знаю	I know	
+знающего	who knows	
+зовут	call	
+зонтиком	umbrella	
+зубами	teeth	
+и	and	
+иванов	Ivanov	
+играл	I played	
+идеже	idezhe	
+иди	go	
+иду	I go	
+иерусалим	Jerusalem	
+из	of	
+изведем	ack	
+извела	exhausted	
+извели	have plagued	
+известное	known	
+извозчик	cab	
+извозчиками	cabbies	
+извозчиков	cabs	
+издали	from afar	
+издох	izdoh	
+изо	every	
+изредка	occasionally	
+или	or	
+им	them	
+именинах	birthday party	
+иметь	have	
+иные	other	
+иродов	Herod	
+искать	search	
+истории	stories	
+история	history	
+их	their	
+июньский	June	
+к	to	
+кабак	pub	
+каждое	each	
+каждый	each	
+каждым	each	
+как	as	
+какие	what kind	
+какого	of	
+какой	which	
+калачиком	up	
+калитка	gate	
+калитку	wicket	
+калиточку	kalitochku	
+каменном	stone	
+камешке	pebble	
+каплунцев	kapluntsev	
+каплунцева	kapluntseva	
+кармане	pocket	
+касались	concerned	
+каторгу	hard labor	
+качествами	qualities	
+кашин	Cashin	
+кладбище	cemetery	
+кладешь	you put	
+кланялся	bow	
+клетки	cell	
+кликнул	clicked	
+книжкой	book	
+ко	to	
+кобыла	mare	
+когда	when	
+кого	whom	
+кое-где	here and there	
+коленей	knees	
+колени	knees	
+коли	if	
+колодезе	the pit	
+колодезного	Pit	
+колодезный	sump	
+колодезь	a well	
+командовала	commanded	
+комнате	room	
+комнаты	rooms	
+комплименты	compliments	
+кондукторах	jigs	
+конец	end	
+конца	the end of	
+конюшни	mews	
+копейку	kopeck	
+коричневом	brown	
+кормит	feeds	
+коров	cows	
+корова	cow	
+коровенка	korovenka	
+кости	bones	
+костюме	suit	
+костяными	bone	
+которой	which	
+которую	which	
+которые	that	
+который	which the	
+красива.	beautiful.	
+красивая	beautiful	
+красной	red	
+красноречивым	eloquent	
+кресты	crosses	
+крещеная.	Baptized.	
+крикнул	shouted	
+крикнула	shouted	
+кричал	shouted	
+кричали	shouted	
+кричит	shouts	
+кричу	shout	
+кровью	blood	
+крупные	big	
+крутой	steep	
+крылечке	porch	
+крыше	roof	
+крышей	roof	
+крючок	hook	
+кто	Who	
+кто-то	somebody	
+куда	where	
+кузька	Kuzka	
+кузьки	Kuzka	
+кузькой	Kuzka	
+кузьку	Kuzka	
+кузьму-бессребреника	Kuzma disinterested	
+кулаками	fists	
+купец	merchant	
+купцами	merchants	
+купцы	merchants	
+кургузенькая	kurguzenkaya	
+куска	piece	
+кучера	coachman	
+лавочке	bench	
+лавочку	shop	
+ласковые	affectionate	
+лег	lay down	
+легко	easily	
+легла	lay	
+легче	easier	
+лежат	lie	
+лежит	is	
+лениво	idly	
+лестно	flattering	
+лет	years	
+летом	in summer	
+лечиться	treated	
+ли	whether	
+ли.	Is.	
+лице	person	
+лицо	face	
+лицом	face	
+личико	face	
+лоб	forehead	
+ловил	I caught	
+локти	elbows	
+ломовых	dray	
+лошадей	horses	
+лошади	horses	
+лошадь	horse	
+луна	moon	
+лунным	moon	
+луной	moon	
+лучше	better	
+льготы	privileges	
+любвишкой	lyubvishkoy	
+любил	I loved	
+любила	I loved	
+любишь	love	
+люблю	love	
+любовные	love	
+люди	people	
+людям	people	
+людями	lyudyami	
+максимыч	Maksimych	
+максимычу	Maksimych	
+маленькая	petite	
+мало	few	
+мальчик	boy	
+мальчика	boy	
+мальчиком	boy	
+мальчишка	urchin	
+мальчишку	boy	
+мальчонка	malchonka	
+маменьке	mamma	
+манерам	manners	
+марфа	Martha	
+марья	marja	
+масленой	Pancake	
+маслобойня	creamery	
+мастерил.	wizard.	
+матвеем	Matthew	
+матвей	Matthew	
+матери	mother	
+мать	mother	
+матюша	Matyusha	
+маша	Masha	
+машенька	Masha	
+машеньке	Masha	
+машеньки	Masha	
+машенькой	Masha	
+машеньку	Masha	
+машет	waving	
+маяться	toil	
+медными	copper	
+между	between	
+меня	me	
+места	seats	
+месяц	month	
+месяца	of the month	
+месяцев	months	
+механиках	mechanics	
+мещанин	philistine	
+мещанству	philistinism	
+мигает	flashing	
+мигая	unblinking	
+милосердный	merciful	
+милостыню	alms	
+мимо	by	
+минута	minute	
+минутку	moment	
+минуту	minute	
+мне	to me	
+много	a lot of	
+мной	me	
+могу	I can	
+мое	my	
+моей	my	
+моему	my	
+может	can	
+мозги	brain	
+мои	my	
+моих	my	
+мой	my	
+молит	pleads	
+молитесь	pray	
+молода	young	
+молодайка	looking young woman	
+молодая	young	
+молодое	young	
+молодой	young	
+молодые	young	
+молоком	milk	
+молча	silently	
+молчании	silence	
+молчит	silent	
+монисты	necklaces	
+моргнула	blinked	
+моя	my	
+муж	husband	
+мужа	husband	
+мужем	husband	
+мужи	men	
+мужики	men	
+мужиков	men	
+мужняя	a married	
+мужским	male	
+мужу	husband	
+мужчина	Man	
+музыка	music	
+муки	flour	
+мы	we	
+мыть	wash	
+мышьяк	arsenic	
+мёдом	honey	
+на	on	
+набежит	nabezhit	
+набралось	accumulated	
+наверху	upstairs	
+навес	shed	
+навесом	shed	
+навозом	manure	
+нагуляла	work up	
+над	above	
+надевал	wore	
+надел	allotment	
+надо	must	
+надумала	I think up	
+назад	ago	
+найдя	finding	
+наказал	punished	
+наказание	punishment	
+налево	left	
+намял	namyali	
+написано	written	
+направо	right	
+народ	people	
+нас	us	
+наставление	instruction	
+насчет	about	
+находя	finding	
+начал	began	
+началась	started	
+начали	We started	
+начальства	heads	
+начальство	authority	
+начиная	beginning	
+начнет	starts	
+начну	start	
+наш	our	
+нашей	our	
+нашем	our	
+нашлась	was found	
+нашли	found	
+нашу	our	
+не	not	
+неба	heaven	
+небе	heaven	
+небесами	heavens	
+небесного	heavenly	
+небо	sky	
+небось	I suppose	
+невест	brides	
+невестка	sister in law	
+невесту	the bride	
+неволе	captivity	
+неволей	nilly	
+неволим	captivity	
+невольно	unwittingly	
+неволю	captivity	
+него	it	
+недавно	recently	
+недалеко	near	
+неделе	week	
+неделю	week	
+недолго	not for long	
+нее	she	
+нежный	tender	
+нездоров	ill	
+ней	her	
+некому	no one	
+некрасивая	ugly	
+некрасивое	ugly	
+неладно	amiss	
+нельзя	must not	
+нем	it	
+немного	Little	
+немцев-колонистов	German colonists	
+непременно	certainly	
+несть	legion	
+нет	no	
+нет.	no.	
+нечего	there is nothing	
+нечистый	unclean	
+нею	her	
+ни	or	
+нижнем	lower	
+никогда	never	
+никого	no one	
+никому	to nobody	
+ним	it	
+них	them	
+ничего	nothing	
+но	but	
+новое	new	
+ногами	legs	
+ноги	legs	
+норовлю	norovlyu	
+норовят	strive to	
+нос	nose	
+носил	I wore	
+носом	nose	
+ноту	note	
+ночам	night	
+ночи	night	
+ночлег	bed	
+ну	Well	
+ну-с	Well	
+о	about	
+обвалился	collapsed	
+обе	both	
+обеими	both	
+обидел	offended	
+облака	clouds	
+облаками	clouds	
+обоим	both	
+оборвали	cut short	
+оборву	tear off	
+оборками	frilly	
+оборонять	defend	
+оборудовали	equipped	
+обоянь	Obojan	
+образованная	educated	
+образом	manner	
+обращаться	treat	
+обстоятельство	circumstance	
+объяснял	explained	
+объяснять	explain	
+овец	sheep	
+овцы	sheeps	
+овёс	oats	
+огненную	fire	
+ограды	fences	
+одевалась	dressed	
+один	one	
+одна	one	
+одни	some	
+одним	a	
+одно	one	
+одной	one	
+одну	one	
+оженить	dix	
+озорной	mischievous	
+оказался	turned	
+окликнул	called out	
+окна	window	
+окном	window	
+около	about	
+окошка	window	
+он	he	
+она	she is	
+они	they	
+опачкалась	opachkalas	
+опять	again	
+осерчал	enraged for evermore	
+оставить	retain	
+осталась	remained	
+остался	remained	
+останавливаются	stop	
+остановилась	stopped	
+острог	prison	
+остроге	prison	
+остроглазая	sharp-sighted	
+острым	sharp	
+осчастливили	We made happy	
+от	from	
+отвадила	drive off	
+ответил	answered	
+ответила	answer	
+ответило	responded	
+отвечал	posted	
+отвиливай	evade	
+отворяй	open	
+отдали	gave	
+открыл	I opened	
+открыла	opened	
+открытого	open	
+откуда	from whence	
+отнял	took	
+отняли	robbed	
+отнялись	paralyzed	
+отперла	unlocked	
+отправилась	I went to	
+отправляет	sends	
+отправляли	sent	
+отравила	poisoned	
+отравился	poisoned	
+отродье	brat	
+оттого	that is why	
+отходя	leaving	
+отце	father	
+отцу	father	
+отчаянным	desperate	
+охапку	armful	
+охотникам	hunters	
+очень	highly	
+очки	spectacles	
+очумел	gone crazy	
+падал	falling	
+пакости	dirty tricks	
+пар	steam	
+парень	guy	
+парным	pair	
+парню	guy	
+парня	Man	
+парусинковом	parusinkovom	
+пархатые	Parhat	
+паршивым	lousy	
+пастуха	shepherd	
+пахло	smell	
+пенек	stump	
+первая	first	
+первое	first	
+перед	before	
+перекосило	twisted	
+перекрестился	crossed	
+переулке	Lane	
+песни	songs	
+песню	song	
+петь	sing	
+печальной	sad	
+печальную	sad	
+печки	the stove	
+писание	writing	
+письмо	letter	
+пить	drink	
+пишет	He writes	
+пламенем	fire	
+платок	shawl	
+платочке	headscarf	
+платье	dress	
+плачет	weeps	
+плачет.	crying.	
+плачься	mourning	
+плескалась	splashed	
+плоть	flesh	
+плыла	floated	
+по	by	
+по-ихнему	in their language	
+побежал	ran	
+побелела	blanched	
+побойся	Fear	
+повадились	get the habit	
+повалил	threw	
+повалился	fell	
+повел	took	
+повели	took	
+повернулся	I turned	
+повизгивает	squeals a little	
+повинимся	duty	
+поводит	shrugs	
+повозка	wagon	
+повозке	wagon	
+повозки	carts	
+повозку	wagon	
+поганец	sod	
+погибшая	deceased	
+поглядел	looked	
+поглядела	looked	
+погнали	chased	
+поговорить	talk	
+поговоришь	talk	
+погодя	later	
+погосте	churchyard	
+погрешили	transgressed	
+погубил	ruined	
+под	under	
+подавала	filed	
+подал	filed	
+подбежал	ran	
+подбородком	chin	
+поделаешь	done	
+поди	podi	
+подлая	despicable	
+подлец	scoundrel	
+подмазали	grease	
+поднимаясь	rising	
+подошла	came	
+подошли	reached	
+подперев	propped up	
+подробная	detailed	
+подсолнухи	sunflowers	
+подступить	approach	
+подумал	thought	
+подумала	thought	
+поехала	I traveled	
+пожалела	sorry	
+пожелав	wished	
+пожила	I lived	
+пожимался	He shrugged his shoulders	
+позади	behind	
+позвали	summoned	
+поздно	late	
+пойду	go	
+пойдут	will go	
+пока	till	
+показалась	appeared	
+показывай	show me	
+показывать	show	
+покатила	rolled	
+покачиваясь	rocking	
+поклонился	bow	
+поклонись	bow	
+покойника	deceased	
+покойный	late	
+покормить	feed	
+покорная	submissive	
+покраснела	blushed	
+покрытый	coated	
+пола	gender	
+полгодика	half-year	
+полез	reached	
+ползает	creeps	
+политики	politicians	
+полиция	police	
+полночь	midnight	
+половину	half	
+полость	cavity	
+полтинники	silver coins	
+полу	floor	
+полунощники.	polunoschniki.	
+получили	got	
+полчасика	half-hour	
+пользы	benefit	
+польское	Polish	
+польстилась	tempted	
+полюбила	I fell in love	
+помер	dead	
+померла	died	
+помещики	landowners	
+помирать	die	
+помнит	remember	
+помнить	remember	
+помню	I remember	
+помогали	help	
+помолился	prayed	
+помянули	commemorated	
+понравилась	I liked	
+поодаль	aloof	
+попала	hit	
+попил	drank	
+поповичей	Popovich	
+поповичем	Popovich	
+поповичи	Popovici	
+поправку	correction	
+пора	time to	
+породистых	thoroughbred	
+посадили	planted	
+посидел	sat	
+после	after	
+последний	last	
+последняя	latest	
+посмотрели	looked	
+посоветуешь.	advise.	
+постели	bed	
+постель	bed	
+постель.	bed.	
+постилала	shake down	
+постилая	postilaya	
+постояла	stood	
+постращал	postraschal	
+постылый	ignominious	
+постылым	hateful	
+посылал	sent	
+потекли	streamed	
+потемках	dark	
+потерял	I lost	
+потолок	ceiling	
+потом	later	
+потребовали	demanded	
+потянулись	stretched	
+потянуло	drew	
+похаживает	walked about	
+походил	like	
+похоронили	buried	
+починяю	mending	
+пошел	I went to	
+пошла	gone	
+пошли	gone	
+праведные	righteous	
+предметах	items	
+претерпеть	suffer	
+при	at	
+прибежал	rushed	
+привела	lead	
+привык	accustomed	
+приданое	dowry	
+придешь	will come	
+придумываю	I come up	
+приезжие	visitors	
+приемышек	priemyshek	
+приехал	I arrived	
+прижалась	snuggled	
+прижимает	presses	
+признавалась	recognized	
+приказчиком	clerk	
+примочках	lotion	
+прислушались	heeded	
+присутствие	presence	
+приучается	learns	
+приходит	comes	
+приходится	accounts	
+причине	reason	
+пришел	I came	
+пришла	came	
+приятная	pleasant	
+про	about	
+пробормотал	murmured	
+проведать	visit	
+провожать	see off	
+проворчала	groused	
+прогнал	chased	
+продавал	selling	
+продолжал	continued	
+проезжего	traveler	
+проезжие	carriageways	
+проезжий	carriageable	
+проезжими	carriageways	
+проезжих	carriageways	
+прожили	lived	
+прозванию	surnamed	
+проклятого	accursed	
+проклятые.	damn.	
+проклятых	damned	
+пронеслось	flashed	
+пропала	missing	
+пропали	missing	
+проснувшись	waking up	
+проснулась	awoke	
+простая	simple	
+прости	sorry	
+простил	pardoned	
+против	against	
+противься	resist	
+прохаживать	walk about	
+прохлаждаюсь	dally	
+прохожу	I pass	
+прочитал	I read	
+прочитали	read	
+прошел	I was	
+прошествии	after	
+прошибла	proshibla	
+прошла	I passed	
+прошло	gone	
+прошу	I beg	
+прощался	goodbye	
+прощаю	I forgive	
+прямо	straight	
+пряники	gingerbread	
+птица	bird	
+пуговицами	buttons	
+пускай	let them	
+пускай.	let.	
+пустое	null	
+пустякам	trifles	
+пустяком	doddle	
+путем	by	
+пыли	dust	
+пьянства	drunkenness	
+пьяный	drunk	
+пятое-десятое	fifth or tenth	
+пять	five	
+пятьсот	five hundred	
+работаешь	working	
+работать	work	
+работника	employee	
+равно	equally	
+ради	for	
+раз	time	
+раза	fold	
+разболелась	aching	
+разбудила	I woke up	
+разводил	bred	
+развязало	unleashed	
+развязаться	come loose	
+разговариваю	talk	
+разговора	call	
+разговорились	talking	
+разговоры	conversations	
+раздеваясь	undressing	
+размахнулся	swung	
+разобрать	disassemble	
+разостлал	spread out	
+разум	mind	
+рай	paradise	
+райбуже	raybuzhe	
+рамы	frame	
+рано	early	
+раньше	before	
+раскатистым	booming	
+расписывать	paint	
+распорядишься	dispose	
+распотрошили	gutted	
+распряг	unharnessed	
+рассказать	tell	
+рассказывал	I told	
+рассказывали	told	
+рассказывать	narrate	
+расшвыривает	flinging	
+ребеночком	a baby	
+ребятами	children	
+решение	decision	
+решения	solutions	
+решётку	the bars	
+решёточкой	reshotochkoy	
+робкий	timid	
+робко	shyly	
+рода	kind	
+родился	I was born	
+родной	native	
+родов	birth	
+росистой	dewy	
+росой	dew	
+рубахе	shirt	
+рублей	rubles	
+рублишку	rublishku	
+ружьем	gun	
+рукавом	sleeve	
+руками	hands	
+руках	hands	
+руки	arms	
+рукой	hand	
+рукою	hand	
+руку	hand	
+ручки	pens	
+ручьем	stream	
+рыба	a fish	
+рядом	beside	
+с	from	
+саввич	Savich	
+саввичем	Savich	
+садиться	sit down	
+сады	gardens	
+сажа	soot	
+саженях	fathoms	
+сам	himself	
+сама	herself	
+самовар	samovar	
+самого	himself	
+самой	most	
+самохвалихи	samohvalihi	
+самую	most	
+самые	most	
+самый	most	
+самыми	most	
+сани	sleigh	
+сахарку	Sakharkov	
+свадьбы	wedding	
+сватали	matchmaker	
+сваху	matchmaker	
+свернулся.	I curled.	
+сверстник	contemporary	
+свет	shine	
+свете	light of	
+светом	light	
+свечку	candle	
+свечной	McPherson	
+свидетелях	witnesses	
+свиненок	svinenok	
+свирели	flute	
+свистит	whistles	
+свободной	free	
+свое	his	
+своего	his	
+своей	his	
+своем	its	
+свои	their	
+своим	his	
+своих	own	
+свой	his	
+свою	its	
+святой	St	
+святые	the Saints	
+свёкре	svokre	
+сделал	did	
+сделаю	I make	
+себе	himself	
+себя	himself	
+сейчас	now	
+сел	sat	
+села	village	
+селе	village	
+семеновна	Semenovna	
+семи-восьми	seven or eight	
+семнадцати	seventeen	
+семьей	family	
+семьи	families	
+сене	hay	
+сени	inner porch	
+сенник	Senik	
+сено	hay	
+сеном	hay	
+сердито	angrily	
+сердце	a heart	
+сердягу	serdyagu	
+сером	gray	
+серьезного	serious	
+сестру	sister	
+сзади	behind	
+сибири.	Siberia.	
+сибирь	Siberia	
+сидел	sat	
+сидела	sat	
+сидело	sat	
+сидит	is sitting	
+сил	forces	
+силы	of force	
+симоновна	Simonovna	
+синяки	bruises	
+сиплым	hoarse	
+сиротка	orphan	
+скажи	tell	
+скажу	I tell	
+скажут	tell	
+сказал	He said	
+сказала	He said	
+скамеечке	bench	
+сквозь	through	
+скворешен	skvoreshen	
+скворцов	starlings	
+сколько	how	
+скоро	soon	
+скоро.	soon.	
+скотом	with a cat	
+скрежетать	gnash	
+скромно	decently	
+скрывать	hide	
+скрылась	disappeared	
+скрылся	disappeared	
+скучно	dull	
+слава	glory	
+сладко	sweetly	
+слегла	fell ill	
+слез	tears	
+слеза	a tear	
+слезы	tears	
+слов	words	
+слова	the words	
+словечка	a word	
+словно	like	
+словом	in short	
+словоохотливым	talkative	
+служил	served	
+служит	is	
+слушает	listens to	
+слушай	hear	
+слушал	I listened to	
+слушалась	I listened to	
+слушали	listened to	
+слушать	listen	
+слушаются	hear	
+слыхала	I heard	
+слышались	We heard	
+слышишь	hear	
+слышная	audible	
+слышу	hear	
+смеется	laughs	
+смерти	of death	
+смерть	death	
+смертью	death	
+смехом	with fur	
+смеются.	laugh.	
+смеясь	laughing	
+смеяться	laugh	
+смирный	gentle	
+смоле	resin	
+сморщенное	wrinkled	
+смотрел	looked	
+смотреть	look	
+смотрит	looks	
+смотрю	look	
+смутил	confused	
+сне	dream	
+снег	snow	
+со	with	
+собака	dog	
+собаке	dog	
+собачья	dog	
+собирался	I am going	
+собирать	collect	
+соблюдать	follow	
+соблюсти	observe	
+собой	yourself	
+совершенно	completely	
+совести	conscience	
+совесть	conscience	
+совращались	seduce	
+согнулся	crouched	
+согрешение	transgression	
+солдат	soldier	
+солдатка	woman soldier	
+солдаты	soldiers	
+солнца	the sun	
+солнце	the sun	
+соломе	straw	
+сон	sleep	
+сонный	sleepy	
+сороками	magpies	
+соседний	neighboring	
+соседству	neighborhood	
+сослать	exile	
+сосчитать	count	
+софье	Sofia	
+софьей	Sofia	
+софьи	Sofia	
+софью	Sofia	
+софья	Sofia	
+спали	slept	
+спасение	the rescue	
+спать	sleep	
+спеша	slowly	
+спи	sleep	
+спи.	sleep.	
+спит	sleeps	
+спишь	sleep	
+спрашивали	asked	
+спросил	I asked	
+спросила	I asked	
+срами	disgrace	
+срамота	disgrace	
+среди	among	
+стал	I became	
+стала	became	
+стали	become	
+стало	It was	
+стану	will	
+стараться	try	
+старик	old man	
+старой	old	
+старуха	old woman	
+старушечье	old woman	
+старушка	old woman	
+старушки	old woman	
+старше	senior	
+старший	older	
+старших	senior	
+старый	old	
+стемнело	dark	
+стене	wall	
+степенно	sedately	
+стоит	costs	
+столбу	pole	
+столько	so many	
+сторож	watchman	
+сторона	side	
+сторону	side	
+стороны	sides	
+стою	standing	
+стояла	was	
+стояли	stood	
+страшная	terrible	
+страшно	fearfully	
+страшно.	fearfully.	
+страшном	fearful	
+стряхнул	shook	
+субботу	Saturday	
+суде	court	
+судили	tried	
+судилище	the judgment seat	
+судить	judge	
+суматоха	flurry	
+сунул	thrust	
+схватил	I caught	
+сходить	descend	
+счетами	accounts	
+считать	consider	
+сын	a son	
+сына	son	
+сынок	son	
+сюртуке	coat	
+сюртучком	syurtuchkom	
+сюртучок	syurtuchok	
+та	that	
+так	So	
+так.	So.	
+такая	this	
+такие	such	
+такие-то	such and such	
+такого	this	
+такое	this	
+такую	this	
+там	there	
+твой	is yours	
+твоя	yours	
+те	those	
+тебе	you	
+тебя	you	
+текут	flow	
+телом	the body	
+теней	shadow	
+тени	shadow	
+тенор	tenor	
+тенора	tenor	
+тень	shadow	
+теперь	Now	
+теплым	warm	
+тех	those	
+тихо	quiet	
+тихо-тихо.	quietly.	
+то	the	
+тобой	you	
+товарищи	companions	
+тогда	then	
+того	Togo	
+тоже	also	
+только	only	
+том	Tom	
+тому	that	
+тополей	poplars	
+топтать	tread	
+торгует	trades	
+тотчас	immediately	
+точно	exactly	
+тощенький	toschenky	
+траве	grass	
+требуют	require	
+третий	the third	
+три	three	
+тридцати	thirty	
+трое	three	
+троица	Trinity	
+троицу	trinity	
+тронувшись	tronuvshis	
+трубе	pipe	
+трудно	difficult	
+трясется	shakes	
+трястись	shake	
+трясутся	shaking	
+турманы	tumblers	
+тут	here	
+ты	you	
+тыкались	poked	
+тысяч	thousand	
+тюкни	tyukni	
+тяжелым	severe	
+тянулись	stretched	
+тётка	aunt	
+у	at	
+убей	kill	
+убирают	clean	
+убьет	kill	
+увидев	seeing	
+увидел	had seen	
+увидит	see	
+углу	corner	
+угождать	please	
+ударил	hit	
+ударили	hit	
+удержался	I resist	
+удобнее	convenient	
+уж	really	
+ужаса	horror	
+уже	already	
+ужинать	have supper	
+уздечкой	bridle	
+уздечку	bridle	
+узел	node	
+узла	host	
+узнал	I learned	
+узнают	learn	
+уйди	get thee	
+укрылся	took refuge	
+улица	Street	
+улице	street	
+улицу	street	
+улицы	streets	
+ума	crazy	
+умиления	supplications	
+умом	wisely	
+умственный	mental	
+уму	the mind	
+умылся	washed	
+уперлась	rested	
+уснули	fell asleep	
+успокоились	calm down	
+уток	woof	
+утра	morning	
+утренняя	morning	
+утро	morning	
+утром	morning	
+ухватилась	clutched	
+ухо	an ear	
+уходили	leaving	
+уходя	leaving	
+участки	Lots	
+учил	I taught	
+учителем	teacher	
+ушел	gone	
+уши	ears	
+ушла	gone	
+факта	the fact	
+фантазии	fantasy	
+федор	Fedor	
+фигура	figure	
+филипп	Philip	
+фундаменте	foundation	
+фёдор	Fedor	
+фёдора	Theodore	
+халатике	housecoat	
+характером	character	
+хватился	I had missed	
+хватит	enough	
+хлопал	slamming	
+ходил	walked	
+ходила	I went to	
+ходить	walk	
+хозяин	master	
+хозяйки	hostess	
+холерой	cholera	
+холода	cold	
+холодно	cold	
+хорошо	OK	
+хорошую	good	
+хотела	I wanted	
+хотелось	I wanted	
+хоть	though	
+хочется	I want to	
+хочу	want	
+христа	christ	
+худенькая	thin	
+худенький	slender	
+хуже	worse	
+царство	kingdom	
+целует	kissing	
+целый	all	
+цену	a price	
+церкви	churches	
+церковной	church	
+церковь	church	
+церковью	church	
+чаем	tea	
+чай	tea	
+чайку	seagull	
+чаю	tea	
+чего	what	
+человек	human	
+человека	man	
+человеком	man	
+человеческого	the human	
+человечности	humanity	
+чем	than	
+через	across	
+чернела	blackened	
+черном	black	
+черпая	drawing	
+четверг	Thursday	
+чехов	Czechs	
+чижей	Siskins	
+чиновниками	officials	
+чиновники	officials	
+чистенько	neatly	
+чистого	clean	
+чистое	pure	
+читал	read	
+читала	I read	
+читаю	I read	
+чрезвычайности	extraordinarily	
+что	what	
+что-то	something	
+чтоб	to	
+чтобы	that	
+чувства.	feelings.	
+чувствительно	sensitive	
+чувствительный	sensitive	
+чугунке	the pot	
+чужую	someone else	
+чуть	slightly	
+чуяло	chuyalo	
+шапка	a cap	
+шапки	hats	
+швыряет	throws	
+шел	walking	
+шепнула	He whispered	
+шею	neck	
+широкая	broad	
+широко	wide	
+шла	was	
+шума	noise	
+шуршала	rustled	
+шёпотом	a whisper	
+щеголиха	woman of fashion	
+щекам	cheeks	
+щелкая	clicking	
+щелки	slits	
+эка	eka	
+этаже	floor	
+этак	that way	
+этакий	sort of	
+этакой	sort of	
+этим	these	
+это	this	
+этого	it	
+этом	this	
+этот	this	
+эх	oh	
+эхо	echo	
+юбке	skirt	
+юшку	yushku	
+я	I	
+ямочку	dimple	
+ярким	bright	
+ясное	clear	
+—	-	
+﻿антон	anton	
