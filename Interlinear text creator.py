@@ -1,11 +1,10 @@
 import string
 from datetime import datetime
-import io
 
 startTime = datetime.now()
 
 #Create the dictionary
-with io.open('dictionary.txt', 'r', encoding='utf8') as f:
+with open('dictionary.txt', 'r', encoding='utf8') as f:
     dictionary = f.readlines()
 
 dict1 = {}
@@ -18,7 +17,7 @@ keys = dict1.keys()
 
 #Open the text to be processed
 filename = 'text_input.txt'
-with io.open(filename, 'r', encoding='utf8') as f:
+with open(filename, 'r', encoding='utf8') as f:
     text = f.read()
 clean_text = text.replace(' ',' ') #weird encoded space character \uA0
 word_list = clean_text.split()
@@ -62,7 +61,7 @@ for word in words_list_lowercase:
 
 
 #Remove duplicate words and output them
-with io.open('words_list_to_translate.txt','w',encoding='utf8') as out:
+with open('words_list_to_translate.txt','w',encoding='utf8') as out:
     word_set = sorted(set(words_list_lowercase))
     word_count = 0
     for word in word_set:
@@ -79,10 +78,10 @@ with io.open('words_list_to_translate.txt','w',encoding='utf8') as out:
 def interlineate(filename):
     processingTime = datetime.now()
 
-    textfile = io.open(filename, 'r', encoding='utf8')
+    textfile = open(filename, 'r', encoding='utf8')
     text = textfile.read()
-    output = io.open('output.html','w',encoding='utf8')
-    missed_words_file = io.open('missed_words.txt','w',encoding='utf8')
+    output = open('output.html','w',encoding='utf8')
+    missed_words_file = open('missed_words.txt','w',encoding='utf8')
     missed_words = []
     number_of_sentences = text.count('\n')
     #output.write('<ruby>\n')
