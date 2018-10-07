@@ -1,0 +1,14 @@
+<% include ../views/header %>
+
+<h1>Input some text in Russian to translate</h1>
+
+<textarea name="name" rows="8" cols="80"></textarea>
+
+<h1>Translated Text</h1>
+<div>
+    <% translated.forEach(function (item) { %>
+        <h2><%= item.word %>, <%= item.tl %></h2>
+    <% }) %>
+</div>
+
+<% include ../views/footer %>
