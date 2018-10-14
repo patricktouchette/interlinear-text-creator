@@ -33,26 +33,23 @@ app.get("/", (req, res) => {
 app.get("/translate", (req, res) => {
 
     const getTranslation = function (callback) {
-        var translated = ['TEST'];
-        wordsList.forEach( (word) => {
-            connection.query( 'SELECT b.bare, t.tl FROM bares b JOIN translations t ON (b.id = t.word_id) WHERE b.bare = ? AND t.lang = "en"',
-            [word], function (error, results, fields) {
-                if (error) throw error;
-                try {
-                    console.log(word, results[0].tl);
-                    translated.push({"word": word, "tl": results[0].tl});
-                }
-                catch (err) {
-                    console.log(word, results[0]);
-                    translated.push({"word": word, "tl": "none"});
-                }
-            });
-        })
-        callback(translated)
+        var translated = [];
+        connection.query( 'SELECT b.bare, group_concat(t.tl) AS tl FROM ru_en b JOIN translations t ON (b.id = t.word_id) WHERE b.bare IN (?) AND t.lang = "en" group by b.bare',
+        [wordsList], function (error, results, fields) {
+            if (error) throw error;
+            console.log(results);
+            try {
+                translated = results.map(result => ({"word" : result.bare, "tl" : result.tl}))
+            }
+            catch (err) {
+                console.log(err);
+            }
+            callback(translated)
+        });
     }
 
     getTranslation (function(translated) {
-        console.log(translated);
+        console.log("This is the list of translated words" , translated);
         res.render("translate", {translated: translated})
     });
 
